@@ -124,7 +124,7 @@
     "fields": [
       {
         "component": "text",
-        "name": "tab-title",
+        "name": "tabtitle",
         "label": "Tab Title"
       }
     ]
