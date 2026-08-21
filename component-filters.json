@@ -20,6 +20,12 @@
     ]
   },
   {
+    "id": "testblock",
+    "components": [
+      "card"
+    ]
+  },
+  {
     "id": "columns",
     "components": [
       "column"
