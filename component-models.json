@@ -131,6 +131,17 @@
     ]
   },
   {
+    "id": "testblock",
+    "fields": [
+      {
+        "component": "text",
+        "name": "tabtitle",
+        "label": "Tab Title",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "card",
     "fields": [
       {
