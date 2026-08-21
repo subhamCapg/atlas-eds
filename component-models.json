@@ -120,7 +120,7 @@
     ]
   },
   {
-    "id": "tab-cards",
+    "id": "tabcards",
     "fields": [
       {
         "component": "text",
