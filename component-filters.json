@@ -9,18 +9,11 @@
     "id": "section",
     "components": [
       "teaser-block",
-      "tabcards",
-      "testblock"
+      "tabcards"
     ]
   },
   {
     "id": "tabcards",
-    "components": [
-      "card"
-    ]
-  },
-  {
-    "id": "testblock",
     "components": [
       "card"
     ]
