@@ -9,7 +9,7 @@
     "id": "section",
     "components": [
       "teaser-block",
-      "tab-cards",
+      "tabcards",
       "testblock"
     ]
   },
